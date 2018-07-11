@@ -15,6 +15,6 @@ var a, b
     return a *= b;
   }
   
-  function subtract(a,b) {
+  function divid(a,b) {
     return a /= b;
   }
