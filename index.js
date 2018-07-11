@@ -19,7 +19,7 @@ var a, b
     return a /= b;
   }
   
-  function increments(a) {
-    return a += 1;
+  function inc(n) {
+    return a += 1n
   }
 
