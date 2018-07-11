@@ -4,7 +4,7 @@ var a, b
   b = Math.floor(Math.random() * 1000)
   
   function add(a,b) {
-    a += b
+    return a += b
   }
   
   add(a,b) 
