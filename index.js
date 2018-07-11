@@ -20,6 +20,11 @@ var a, b
   }
   
   function inc(n) {
-    return a += 1n
+    return n += 1;
   }
+  
+  function dec(n) {
+    return n -= 1;
+  }
+  
 
