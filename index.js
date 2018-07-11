@@ -6,3 +6,6 @@ var a, b
   function add(a,b) {
     a += b
   }
+  
+  add(a,b) 
+  console.log(add(a,b))
