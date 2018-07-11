@@ -18,4 +18,8 @@ var a, b
   function divide(a,b) {
     return a /= b;
   }
+  
+  function increments(a) {
+    return a += 1;
+  }
 
